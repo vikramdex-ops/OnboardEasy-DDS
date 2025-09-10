@@ -1,0 +1,7 @@
+{
+  "name": "Employee Onboarding Hub",
+  "description": "A comprehensive onboarding application for new employees to review policies, submit information, and access necessary tools for their role.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
